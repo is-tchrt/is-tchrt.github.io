@@ -1,5 +1,3 @@
-## Isaac Teichert Personal Profile
-
 ### About Me
 I'm a Computer Science student at Brigham Young University with an emphasis in computer security. I've recently participated in research with Dr. Zappala about the usability of hardware security keys, where I helped to develop working prototypes of an account recovery system for hardware security keys. Recently I've been focusing on learning more about reverse engineering. Aside from computer security, I'm also interested in programming languages, software development, music and Chinese. In my free time I enjoy ultimate frisbee and mountain unicycling.
 
